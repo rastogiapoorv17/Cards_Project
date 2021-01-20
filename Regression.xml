@@ -2,6 +2,7 @@
 <suite name= "Automatio Test">
     <test name="Smoke Testcases">
     <packages>
+    <parameter name="adminUserid" value="abcd"/>  
        <package name="testngFiles" />
         <package name="packTwo"/>
        
