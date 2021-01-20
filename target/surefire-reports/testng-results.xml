@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Test" duration-ms="109" started-at="2021-01-20T14:25:03 IST" finished-at="2021-01-20T14:25:03 IST">
+    <groups>
+    </groups>
+    <test name="Smoke Testcases" duration-ms="109" started-at="2021-01-20T14:25:03 IST" finished-at="2021-01-20T14:25:03 IST">
+      <class name="testngFiles.Annotations">
+        <test-method status="PASS" signature="Cookies()[pri:0, instance:testngFiles.Annotations@55d56113]" name="Cookies" is-config="true" duration-ms="0" started-at="2021-01-20T14:25:03 IST" finished-at="2021-01-20T14:25:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookies -->
+        <test-method status="PASS" signature="UseridGeneration()[pri:0, instance:testngFiles.Annotations@55d56113]" name="UseridGeneration" is-config="true" duration-ms="1" started-at="2021-01-20T14:25:03 IST" finished-at="2021-01-20T14:25:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UseridGeneration -->
+        <test-method status="PASS" signature="FlightBooking(java.lang.String)[pri:0, instance:testngFiles.Annotations@55d56113]" name="FlightBooking" duration-ms="6" started-at="2021-01-20T14:25:03 IST" finished-at="2021-01-20T14:25:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightBooking -->
+        <test-method status="PASS" signature="Reportadding()[pri:0, instance:testngFiles.Annotations@55d56113]" name="Reportadding" is-config="true" duration-ms="0" started-at="2021-01-20T14:25:03 IST" finished-at="2021-01-20T14:25:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reportadding -->
+        <test-method status="PASS" signature="UseridGeneration()[pri:0, instance:testngFiles.Annotations@55d56113]" name="UseridGeneration" is-config="true" duration-ms="0" started-at="2021-01-20T14:25:03 IST" finished-at="2021-01-20T14:25:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UseridGeneration -->
+        <test-method status="PASS" signature="OpeningBrowser()[pri:0, instance:testngFiles.Annotations@55d56113]" name="OpeningBrowser" duration-ms="0" started-at="2021-01-20T14:25:03 IST" finished-at="2021-01-20T14:25:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpeningBrowser -->
+        <test-method status="PASS" signature="Reportadding()[pri:0, instance:testngFiles.Annotations@55d56113]" name="Reportadding" is-config="true" duration-ms="0" started-at="2021-01-20T14:25:03 IST" finished-at="2021-01-20T14:25:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reportadding -->
+        <test-method status="PASS" signature="Cookiesclose()[pri:0, instance:testngFiles.Annotations@55d56113]" name="Cookiesclose" is-config="true" duration-ms="1" started-at="2021-01-20T14:25:03 IST" finished-at="2021-01-20T14:25:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookiesclose -->
+      </class> <!-- testngFiles.Annotations -->
+      <class name="testngFiles.Annot2">
+        <test-method status="PASS" signature="installsoftware()[pri:0, instance:testngFiles.Annot2@64bf3bbf]" name="installsoftware" is-config="true" duration-ms="23" started-at="2021-01-20T14:25:03 IST" finished-at="2021-01-20T14:25:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- installsoftware -->
+        <test-method status="PASS" signature="software()[pri:0, instance:testngFiles.Annot2@64bf3bbf]" name="software" duration-ms="0" started-at="2021-01-20T14:25:03 IST" finished-at="2021-01-20T14:25:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- software -->
+        <test-method status="PASS" signature="deinstallsoftware()[pri:0, instance:testngFiles.Annot2@64bf3bbf]" name="deinstallsoftware" is-config="true" duration-ms="1" started-at="2021-01-20T14:25:04 IST" finished-at="2021-01-20T14:25:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deinstallsoftware -->
+      </class> <!-- testngFiles.Annot2 -->
+    </test> <!-- Smoke Testcases -->
+  </suite> <!-- Automation Test -->
+</testng-results>
